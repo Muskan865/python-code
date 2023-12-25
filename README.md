@@ -8,7 +8,6 @@
 
 - 🚀 **Intuitive Controls**: Simple and responsive controls to maneuver your rocket.
 - 🌌 **Dynamic Gameplay**: Navigate through a constantly changing space environment filled with unpredictable projectiles.
-- 💥 **Power-ups**: Collect power-ups to gain temporary advantages, such as shield protection or speed boosts.
 - 📈 **High Score**: Compete with friends or aim for the global leaderboard to prove your dodging skills.
 
 ## Getting Started
